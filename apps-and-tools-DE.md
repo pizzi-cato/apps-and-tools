@@ -1,3 +1,26 @@
+---
+standalone: true
+pdf-engine: xelatex
+geometry: margin=0.75in
+highlight-style: pygments
+output:
+  pdf_document: default
+  
+# Hyperref‑Optionen
+colorlinks: true
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+filecolor: blue
+anchorcolor: blue
+
+header-includes:
+  - \usepackage{array}
+  - \setlength{\tabcolsep}{12pt}
+  - \renewcommand{\arraystretch}{1.5}
+  - \setlength{\extrarowheight}{2pt}
+---
+
 # Alterantive Apps und Tools
 
 Willst du im grossen Ozean der Main Stream Apps untergehen oder lieber auf der einsamen Insel verhungern? Diese Frage stellt sich (leider) immer häufiger in der heutigen IT-Welt - und es gibt kein Richtig oder Falsch. Dennoch versuchen wir in diesem Dokument, einige Tipps und Tricks weiter­zu­geben, um im IT-Dschungel einigermassen gesund überleben zu können.
