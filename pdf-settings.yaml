@@ -1,6 +1,6 @@
 standalone: true
 pdf-engine: xelatex
-geometry: margin=0.75in
+geometry: margin=2.0cm
 highlight-style: pygments
 output:
   pdf_document: default

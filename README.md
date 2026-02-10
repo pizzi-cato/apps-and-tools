@@ -1,8 +1,8 @@
 # Alternative Apps und Tools
 
-An dieser Stelle werden einige alternative Apps und Tools vorgestellt mit dem Ziel, die Sicherheit und
-persönlichem Datenschutz in den Vordergrund zu stellen. Aktuell werden die Informationen in Deutsch bereitgestellt
-und versioniert als PDF-Datei im Verzeichnis `versions/` abgelegt.
+An dieser Stelle werden die gängigsten Betriebssysteme sowie einige alternative Apps und Tools vorgestellt mit dem Ziel, 
+die Sicherheit und persönlichem Datenschutz in den Vordergrund zu stellen. Aktuell werden die Informationen in 
+Deutsch bereitgestellt und versioniert als PDF-Datei im Verzeichnis `versions/` abgelegt.
 
 ## Versionierung
 
