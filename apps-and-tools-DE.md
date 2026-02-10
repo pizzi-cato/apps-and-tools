@@ -1,4 +1,4 @@
-# Alternative Apps und Tools
+# Alternativen in der IT-Welt
 
 Willst du im grossen Ozean der Main Stream Apps untergehen oder lieber auf der einsamen Insel verhungern? Diese Frage
 stellt sich (leider) immer häufiger in der heutigen IT-Welt - und es gibt kein Richtig oder Falsch. Dennoch versuchen
@@ -10,6 +10,14 @@ aktuelle Stand, was zurzeit an Sicherheit und persönlichem Datenschutz genutzt 
 IT-Welt rasend schnell weiterentwickelt, werden laufend neue Apps dazukommen oder aufgeführte «sichere» Apps doch nicht
 mehr so sicher sein - der eingeschlagene Weg sollte dennoch zum eigenen Schutz weiterverfolgt werden!
 
+In diesem Dokument werden bewusst keine Empfehlungen gegeben, sondern lediglich Informationen zu den verschiedenen
+Betriebssystemen, Apps und Tools bereitgestellt, damit du eine informierte Entscheidung treffen kannst, welches
+Betriebssystem bzw. welche Apps und Tools für dich am besten geeignet sind. Es ist wichtig, dass du dich selbst über
+die verschiedenen Optionen informierst und diejenige auswählst, die am besten zu deinen Bedürfnissen und
+Anforderungen passt. Damit soll auch gewährleistet werden, dass dieses Dokument unabhängig von den persönlichen
+Präferenzen der Autor:innen bleibt und auch nicht von einem bestimmten Unternehmen oder einer bestimmten Organisation
+beeinflusst wird.
+
 Das Dokument soll - ganz im Zeichen von Open Source - von deinem Feedback und deinen Beiträgen leben und
 weiterentwickelt werden. Zu diesem Zweck ist es offen und (im privaten Rahmen) von dir editier- und erweiterbar. Wende
 dich an [Christoph G.](mailto:christoph.gaechter@proton.me), damit du den Link und die notwendige Berechtigung zur
@@ -17,9 +25,45 @@ Mitarbeit erhältst.
 
 ## Versionsverlauf
 
-| Version | Datum      | Author(en)                                          | Beschreibung                   |
-|---------|------------|-----------------------------------------------------|--------------------------------|
-| V1      | 25.01.2025 | [Christoph G.](mailto:christoph.gaechter@proton.me) | Initiale Version des Dokuments |
+| Version | Datum      | Author(en)                                          | Beschreibung                                                                              |
+|---------|------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------|
+| V2      | 25.02.2025 | [Christoph G.](mailto:christoph.gaechter@proton.me) | Alternative Betriebssysteme<br/>Alternative Cloud-Speicher<br/>Ergänzungen zu Virenschutz |
+| V1      | 25.01.2025 | [Christoph G.](mailto:christoph.gaechter@proton.me) | Initiale Version des Dokuments                                                            |
+
+# Alternative Betriebssysteme
+
+## Betriebssysteme für Desktop- und Laptop-Computer
+
+Windows, macOS und Linux sind die drei gängigsten Betriebssysteme für Desktop- und Laptop-Computer. Alle drei
+Betriebssysteme haben ihre eigenen Vor- und Nachteile in Bezug auf Sicherheit, Datenschutz und Benutzerfreundlichkeit.
+
+**ABER**: Die Sicherheit eines Betriebssystems hängt weniger vom System selbst ab, sondern davon, wie bewusst und
+kompetent der Nutzer damit umgeht!
+
+| OS      | Beschreibung                                                                                                                                                                                                                                                                                                                                      |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows | Windows gilt als weit verbreitet und benutzerfreundlich, bringt aber Datenschutz- und Transparenzprobleme mit sich. Einer der grössten Vorteile von Windows ist seine Verfügbarkeit und Kompatibilität mit einer grossen Anzahl von Hardware- und Softwarekomponenten. Wo sich viele Anwender tummeln, sind auch Angreifer und Hacker nicht weit. |
+| macOS   | macOS punktet mit seinem geschlossenen Ökosystem und automatisierten Sicherheitsupdates, schränkt aber die Nutzerfreiheit ein. Einer der Vorteile von MacOS ist seine Stabilität und Sicherheit. Es ist weniger anfällig für Viren und Malware als Windows und bietet eine grosse Auswahl an kreativen Anwendungen.                               | 
+| Linux   | Linux bietet maximale Kontrolle und Transparenz, verlangt jedoch erhebliche Expertise vom Anwender. Es ist auch stabiler und sicherer als andere Betriebssysteme und hat eine grosse Community, die bei Problemen hilft.                                                                                                                          |
+
+### Quellen
+
+- <https://intux.de/2023/02/19/betriebssysteme-im-vergleich-windows-macos-und-linux/>
+- <https://portal.hoou.de/blog/episodes/macos-windows-oder-linux-die-unbequeme-wahrheit-ueber-sichere-betriebssysteme/>
+
+## Betriebssysteme für Smartphones und Tablets
+
+| OS      | Beschreibung                                                                                                                                                                                                                                                                 |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Android | Weit verbreitetes, offenes Betriebssystem von Google, aber mit vielen proprietären Komponenten. Der Datenschutz lässt zu wünschen übrig und das Sicherheitsrisiko ist durch mehr potentielle Schwachstellen erhöht. Android ist auf Smartphones vieler Hersteller zu finden. |
+| iOS     | Geschlossenes Betriebssystem von Apple, bietet eine bessere Sicherheit und Datenschutz, aber weniger Flexibilität und Anpassungsmöglichkeiten. iOS läuft ausschliesslich auf iPhones.                                                                                        |
+
+### Quellen
+
+- <https://www.mediamarkt.de/de/content/handy-gadgets/smartphones/ios-vs-android-vergleich>
+- <https://www.mcafee.com/learn/de/ios-und-android-sicherheit-im-vergleich-ein-umfassender-ueberblick/>
+
+# Alternative Apps und Tools
 
 ## Browser
 
@@ -169,6 +213,10 @@ damit Spionage der Privatsphäre nachgesagt werden. Seit dem 15. März 2022 warn
 vor dem Einsatz der Virenschutz-Software des Anbieters Kaspersky. Die Warnung besteht heute immer noch, trotz
 Intervention von Kaspersky.
 
+Als **nicht-empfehlenswert** gilt zudem die integrierte Virenschutz-Software von Microsoft, aktuelle Microsoft Defender
+Antivirus, da diese nicht genügend Schutz bietet, wie verschiedene Tests zeigen. Dennoch ist es besser, den Microsoft
+Defender Antivirus zu nutzen als gar keinen Virenschutz zu haben.
+
 ### Quellen
 
 - <https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Virenschutz-Firewall/Virenschutzprogramme/virenschutzprogramme_node.html>
@@ -217,10 +265,37 @@ Mögliche, empfehlenswerte Lösungen:
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Proton Pass | alle gängigen Betriebssysteme und Browser, Zero-Knowledge (End-to-End-Verschlüsselung), 2FA-Optionen, teilweise Open Source, gute Integration in das Proton-Ökosysstem (Mail, VPN, Drive), kostenlos oder Abo bei grösseren Datenmengen |
 | Bitwarden   | alle gängigen Betriebssysteme und Browser, Zero-Knowledge, 2FA-Optionen, Open Source, self hosting möglich, Password Sharing für Teams, Gratis-Plan und Abos                                                                            |
-| 1Password   | alle gängigen Betriebssysteme und Browser, Zero-Knowledge, 2FA-Optionen, Quell-Code proprietär, Travel-Mode, Familien- und Team-Pläne, Sieger bei SRF                                                                                   |
+| 1Password   | alle gängigen Betriebssysteme und Browser, Zero-Knowledge, 2FA-Optionen, Quell-Code proprietär, Travel-Mode, Familien- und Team-Pläne, Sieger bei SRF                                                                                   |
 
 ### Quellen
 
 - <https://proton.me/de/pass>
 - <https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/DVS-Berichte/passwortmanager_sicherheit_datenschutz.pdf?__blob=publicationFile&v=3>
 - <https://www.srf.ch/sendungen/kassensturz-espresso/tests/gadgets-elektronik/security-test-diese-passwortmanager-schuetzen-vor-hackern>
+
+## Cloud-Speicher
+
+Damit du die «richtige» Lösung für dich findest, solltest du folgende Fragen beantworten und danach die dazu passende
+Lösung suchen:
+
+- Auf wie vielen Geräten (Desktop, Laptop, Smartphone, Tablet) möchtest du einen Cloud-Speicher verwenden?
+- Legst du Wert auf Sicherheit und Datenschutz (End-to-End-Verschlüsselung, Server-Standort, Zero-Knowledge)?
+- Wie wichtig ist dir die Übertragungsgeschwindigkeit?
+- Benötigst du zusätzliche Funktionen wie Dateiversionierung, Kollaborationstools, Integration mit anderen Apps (Office,
+  Mail, Password Manager)?
+- Wie viel Speicherplatz benötigst du und bist du bereit, dafür zu bezahlen?
+
+Mögliche, empfehlenswerte Lösungen mit Standort Schweiz:
+
+| Cloud-Speicher | Beschreibung                                                                                                                        |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Infomaniak     | Cloud-Speicher in ökologisch betriebenen Daten-Center, bis 15 GB kostenlos, darüber verschiedene Abos                               |
+| pCloud         | zuverlässiger und sicherer Cloud-Speicher, optionale Data-Encryption, Firmensitz: Schweiz, Server-Standort: Luxemburg, optional USA |
+| Proton Drive   | End-to-End-verschlüsselter Cloud-Speicher, Bewahrung der Privatsphäre mit höchster Priorität                                        |
+| Swisscom Cloud | Cloud-Speicher in ökologisch betriebenen Daten-Center, bis 10 GB kostenlos, darüber verschiedene Abos                               |
+
+### Quellen
+
+- <https://www.moneyland.ch/de/cloud-speicher-schweiz-vergleich>
+- <https://www.pcloud.com/de/>
+- <https://proton.me/de/drive/file-storage>
