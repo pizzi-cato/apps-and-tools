@@ -24,12 +24,12 @@ dich an [Christoph G.](mailto:christoph.gaechter@proton.me), damit du den Link u
 
 ## Versionsverlauf
 
-| Version  | Datum        | Author(en)                                          | Beschreibung                                                                                                                          |
-|----------|--------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| V2       | 15.02.2025   | [Christoph G.](mailto:christoph.gaechter@proton.me) | Kapitel Betriebssysteme erstellt; Kapitel Alternative Cloud-Speicher erstellt; Ergänzungen zu Virenschutz; Glossar im Anhang angefügt |
-| V1       | 25.01.2025   | [Christoph G.](mailto:christoph.gaechter@proton.me) | Initiale Version des Dokuments                                                                                                        |
+| Version | Datum      | Author(en)                                          | Beschreibung                                                                                                                          |
+|---------|------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| V3      | 15.05.2025 | [Christoph G.](mailto:christoph.gaechter@proton.me) | Kapitel Betriebssysteme für Smartphones und Tablets um Alternativen ergänzt                                                           |
+| V2      | 15.02.2025 | [Christoph G.](mailto:christoph.gaechter@proton.me) | Kapitel Betriebssysteme erstellt; Kapitel Alternative Cloud-Speicher erstellt; Ergänzungen zu Virenschutz; Glossar im Anhang angefügt |
+| V1      | 25.01.2025 | [Christoph G.](mailto:christoph.gaechter@proton.me) | Initiale Version des Dokuments                                                                                                        |
 
-\newpage
 # Betriebssysteme
 
 ## Betriebssysteme für Desktop- und Laptop-Computer
@@ -58,12 +58,15 @@ kompetent der Nutzer damit umgeht!
 | Android | Weit verbreitetes, offenes Betriebssystem von Google, aber mit vielen proprietären Komponenten. Der Datenschutz lässt zu wünschen übrig und das Sicherheitsrisiko ist durch mehr potentielle Schwachstellen erhöht. Android ist auf Smartphones vieler Hersteller zu finden. |
 | iOS     | Geschlossenes Betriebssystem von Apple, bietet eine bessere Sicherheit und Datenschutz, aber weniger Flexibilität und Anpassungsmöglichkeiten. iOS läuft ausschliesslich auf iPhones.                                                                                        |
 
+Tatsächlich gibt es auch für Smartphones und Tablets alternative Betriebssysteme. Allerdings sind diese zur Zeit gut im
+Schutz der Privatsphäre, jedoch eingeschränkt in der Anzahl Apps, die zur Verfügung stehen. Hier lohnt es sich, von
+Zeit zu Zeit die Entwicklung dieser alternativen Betriebssysteme zu prüfen.
+
 ### Quellen
 
 - <https://www.mediamarkt.de/de/content/handy-gadgets/smartphones/ios-vs-android-vergleich>
 - <https://www.mcafee.com/learn/de/ios-und-android-sicherheit-im-vergleich-ein-umfassender-ueberblick/>
 
-\newpage
 # Alternative Apps und Tools
 
 ## Browser
@@ -303,7 +306,6 @@ Mögliche, empfehlenswerte Lösungen mit Standort Schweiz:
 - <https://proton.me/de/drive/file-storage>
 - <https://www.xelon.ch/blog/die-7-besten-cloud-alternativen-zu-microsoft-azure>
 
-\newpage
 # Anhang
 
 ## Glossar
